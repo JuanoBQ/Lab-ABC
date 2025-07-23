@@ -1,0 +1,30 @@
+#abc {
+    display: grid;
+    flex-direction: row;
+}
+
+#a, #b, #c, #d, #e {
+    display: flex;
+    flex-direction: row;
+    margin-right: 2%;
+    color: rgb(50, 116, 183);
+}
+
+#abcde {
+    display: flex;
+    flex-direction: row;
+}
+
+img{
+    width: 250px;
+    height: 250px;
+}
+
+h1{
+    display: flex;
+    font-family: sans-serif;
+    justify-content: center;
+    align-items: center;
+    font-size: 450%;
+    margin-right: 2%;
+}
