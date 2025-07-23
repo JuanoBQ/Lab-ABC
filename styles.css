@@ -3,7 +3,7 @@
     flex-direction: row;
 }
 
-#a, #b, #c, #d, #e {
+#a, #b, #c, #d, #e, #f ,#g ,#h, #i , #j{
     display: flex;
     flex-direction: row;
     margin-right: 2%;
