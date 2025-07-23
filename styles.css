@@ -3,16 +3,44 @@
     flex-direction: row;
 }
 
-#a, #b, #c, #d, #e, #f ,#g ,#h, #i , #j{
+#a, #b, #c, #d, #e, #f, #g, #h, #i, #j, #k, #l, #m, #n, #ñ, #o, #p, #q, #r, #s, #t, #u, #v, #w, #x, #y, #z {
     display: flex;
     flex-direction: row;
     margin-right: 2%;
     color: rgb(50, 116, 183);
 }
 
+
+
+
 #abcde {
     display: flex;
     flex-direction: row;
+    margin-bottom: 5;
+}
+
+#fghij {
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 5;
+}
+
+#klmnñ {
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 5;
+}
+
+#pqrst {
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 5;
+}
+
+#uvwxyz {
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 5;
 }
 
 img{
